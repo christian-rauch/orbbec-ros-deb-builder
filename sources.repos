@@ -1,0 +1,5 @@
+repositories:
+  src/OrbbecSDK_ROS2:
+    type: git
+    url: https://github.com/mul-cps/OrbbecSDK_ROS2.git
+    version: 6102ddb070b1a7d4c4b9231aa1adefa75ea34780
